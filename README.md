@@ -1,2 +1,3 @@
 # hello_demo
 first up...
+learning git it crappy at first but now finding it intersting
